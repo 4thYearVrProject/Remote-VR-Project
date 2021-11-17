@@ -1,7 +1,9 @@
 # Remote-VR-Project
 High-Definition Virtual Reality (VR) Platform for Remote Monitoring  and Collaboration
 _______________________________________________________________________________________________________________________
-**BACKGROUND**
+## Background
+
 The advancement of Virtual Reality (VR) and 3D camera technologies have drastically increased in the last few years. VR broadly refers to immersing yourself in a three-dimensional (3D) digital world using sophisticated hardware and software. VR often is experienced through a headset that shuts out the external world and transports you to a virtual one. [1] 3D cameras enable depth perception in images to replicate three dimensions. They use multiple lenses to capture multiple points of view, generating life-like 3D models from image sequences [2]. VR headsets are right now geared towards high end gaming and pre-made media experiences. Almost all options depend on proprietary software, or only run through dedicated gaming platforms. The pandemic has changed many things about the way we work, including the wholesale shift to home working for large numbers of employees. This brings challenges, including the need to retain an environment for labs, remote work, and the building of company culture. [3] As a result there is no readily available off-the-shelf end to end solution that can be customized for remote monitoring and collaboration for industrial use (e.g. remote lab equipment monitoring and management, assembly line inspection, remote base station tower/antenna inspection etc.). Therefore, we are proposing a solution to the problem which is an open source application that links a 3D camera to a VR headset to allow the user to experience the area remotely in 3D. 
+_______________________________________________________________________________________________________________________
 
 
