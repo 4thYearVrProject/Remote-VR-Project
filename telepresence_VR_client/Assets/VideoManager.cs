@@ -21,7 +21,7 @@ public class VideoManager : MonoBehaviour
     }
 
     void Update() {
-      Debug.Log("HEYO HEYO HEYO");
+      
     }
 
     public void Play() {
